@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadImage.Web", "UploadImage.Web\UploadImage.Web.csproj", "{4FC2B8B6-04C6-4566-90F8-601FCC817101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadImage.Data", "UploadImage.Data\UploadImage.Data.csproj", "{78CA692B-1C96-472C-AB40-0BA2983FF878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC2B8B6-04C6-4566-90F8-601FCC817101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC2B8B6-04C6-4566-90F8-601FCC817101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC2B8B6-04C6-4566-90F8-601FCC817101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC2B8B6-04C6-4566-90F8-601FCC817101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CA692B-1C96-472C-AB40-0BA2983FF878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CA692B-1C96-472C-AB40-0BA2983FF878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CA692B-1C96-472C-AB40-0BA2983FF878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CA692B-1C96-472C-AB40-0BA2983FF878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C70644-48B7-4EC6-8E42-B92C4233FF76}
+	EndGlobalSection
+EndGlobal
